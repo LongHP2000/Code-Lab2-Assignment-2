@@ -1,0 +1,8 @@
+AI ASSISTANCE NOTICE
+
+This project contains code created with assistance from OpenAI ChatGPT.
+Created for: Long Pham
+Application: Country Facts Explorer / World Lens
+
+The student should review and understand the code and acknowledge AI use
+in accordance with the assessment brief.
